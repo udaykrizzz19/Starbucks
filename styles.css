@@ -1,0 +1,83 @@
+.heads
+{
+    font-size: 3.5rem;
+    text-align: left;
+    /* padding-top: 70px; */
+    /* width: 30%; */
+    margin-left: 90px;
+}
+.navbar-main
+{
+    padding: 35px 35px 30px;
+}
+
+.logo
+{
+    width: 4.4%;
+}
+
+.nav-main2
+{
+    padding-left: 90px;
+    padding-bottom: 130px;
+}
+
+.sub-head
+{
+    font-weight: 10;
+    text-align: left;
+    /* width: 30%; */
+    margin-left: 90px;
+    font-size: 2.5rem;
+
+}
+.register
+{
+    font-size: 40px;
+}
+.details
+{
+    text-align: left;
+    margin-left: 90px;
+}
+
+.main-img
+{
+    width: 70%;
+    padding-left: 8%;
+    margin-left: 22%;
+}
+
+.cost-sec
+{
+    margin-top: 90px;
+    text-align: left;
+    width: 19%;
+    margin-left: 70px;
+}
+
+.cookie
+{
+    margin-left: 2%;
+}
+
+.sin-button
+{
+    margin-top: 7%;
+}
+
+.cost
+{
+    font-size: 1.5rem;
+}
+
+@media(max-width : 800px) 
+{
+    .cost-sec
+    {
+        text-align: center;
+        width: 40%;
+        margin-left: 35%;
+    }
+    
+}
